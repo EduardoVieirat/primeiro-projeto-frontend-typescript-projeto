@@ -1,0 +1,39 @@
+.teacher-card-Detail {
+  height: 567px;
+  width: 662px;
+
+  background-color: #da0175;
+
+  margin-top: 50px;
+
+  border-radius: 16px;
+
+  color: white;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.teacher-card-Detail img {
+  border-radius: 50%;
+  border: 5px solid white;
+}
+
+.teacher-card-Detail h1 {
+  font-size: 28px;
+  margin: 24px 0 12px 0;
+}
+
+.teacher-card-Detail span {
+  font-size: 18px;
+  margin-bottom: 49px;
+}
+
+.line {
+  width: 80%;
+  height: 2px;
+
+  background-color: #fff;
+}
